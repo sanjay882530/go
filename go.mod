@@ -41,7 +41,7 @@ require (
 	github.com/spf13/cobra v0.0.0-20160830174925-9c28e4bbd74e
 	github.com/spf13/pflag v0.0.0-20161005214240-4bd69631f475
 	github.com/spf13/viper v0.0.0-20150621231900-db7ff930a189
-	github.com/hcnet/go-xdr v0.0.0-20211103144802-8017fc4bdfee
+	github.com/stellar/go-xdr v0.0.0-20211103144802-8017fc4bdfee
 	github.com/stellar/throttled v2.2.3-0.20190823235211-89d75816f59d+incompatible
 	github.com/stretchr/testify v1.7.0
 	github.com/tyler-smith/go-bip39 v0.0.0-20180618194314-52158e4697b8
